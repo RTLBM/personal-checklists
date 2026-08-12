@@ -1,0 +1,48 @@
+LICENSE
+
+This project is based on colewaldrip's Lords of the Fallen (2023) Checklist & Cheat Sheet
+Original Repository: https://github.com/colewaldrip/lotf-2023-checklist
+Original Developer: colewaldrip
+
+================================================================================
+
+ORIGINAL PROJECT
+All original content, images, structure, and design are the property of colewaldrip.
+The original project is available under its original terms at:
+https://github.com/colewaldrip/lotf-2023-checklist
+
+MODIFICATIONS
+This fork was modified by RTLBM to add the following features:
+- Download Backup functionality (export profiles to JSON)
+- Import Backup functionality (restore profiles from JSON)
+
+These modifications are provided as-is for personal use.
+
+================================================================================
+
+ATTRIBUTION REQUIREMENTS
+If you use, fork, or redistribute this project, please:
+1. Provide a link to the original project by colewaldrip
+2. Credit RTLBM for any modifications
+3. Maintain this license file
+
+================================================================================
+
+DISCLAIMER
+This project is fan-made and not affiliated with the official Lords of the Fallen game or its developers.
+
+Game Content Credit:
+- Game: Lords of the Fallen (2023)
+- Developer: Hexworks
+- Publisher: CI Games
+- Wiki: https://thelordsofthefallen.wiki.fextralife.com/
+
+Original Checklist Content Sources:
+- Based on the Lords of the Fallen Completionist's Checklist by Alifer
+- Data from the Lords of the Fallen Fextralife Wiki
+- Forked from Dark Souls 2: Scholar of the First Sin Cheat Sheet by xenevel
+
+================================================================================
+
+For the full terms and more information about the original project, visit:
+https://github.com/colewaldrip/lotf-2023-checklist
